@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/fxy/studentmanage/activity/AddClass.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/fxy/studentmanage/activity/AddScore.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/fxy/studentmanage/activity/AddStudent.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/fxy/studentmanage/activity/Chart.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/fxy/studentmanage/activity/ClassInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/fxy/studentmanage/activity/ClassItem.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/fxy/studentmanage/activity/Login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/fxy/studentmanage/activity/MyStudent.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/fxy/studentmanage/activity/ScoreInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/fxy/studentmanage/activity/ShowScore.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/fxy/studentmanage/activity/StuInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/fxy/studentmanage/activity/StuPerScore.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/fxy/studentmanage/activity/StudentInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/fxy/studentmanage/activity/StudentMainActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/fxy/studentmanage/activity/StudentScore.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/fxy/studentmanage/activity/TeaInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/fxy/studentmanage/activity/TeacherInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/fxy/studentmanage/activity/TeacherMainActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/fxy/studentmanage/dao/DBOpenHelper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/fxy/studentmanage/dao/ScoreDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/fxy/studentmanage/dao/StudentDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/fxy/studentmanage/dao/TeacherDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/fxy/studentmanage/model/Tb_score.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/fxy/studentmanage/model/Tb_student.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/fxy/studentmanage/model/Tb_teacher.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
